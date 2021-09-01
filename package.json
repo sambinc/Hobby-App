@@ -2,7 +2,7 @@
   "name": "convert-website-to-app",
   "version": "0.0.1",
   "author": "Jameson Saunders",
-  "homepage": "https://jamesonsaunders.com/offer/website-to-app-497?s=githubcode",
+  "homepage": "https://sambinc.xyz",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
